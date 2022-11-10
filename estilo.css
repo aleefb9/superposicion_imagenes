@@ -1,0 +1,44 @@
+body{
+	
+}
+
+img{
+	width: 350px;
+	height: auto;
+	position: absolute;
+}
+
+img#cadiz{
+	top: 100px;
+	left: 200px;
+}
+
+img#londres{
+	top: 300px;
+	left: 300px;
+}
+
+img#lisboa{
+	top: 50px;
+	left: 500px;
+}
+
+img#napoles{
+	top: 150px;
+	left: 700px;
+}
+
+img#paris{
+	top: 450px;
+	left: 150px;
+}
+
+img#tokyo{
+	top: 400px;
+	left: 550px;
+}
+
+img#york{
+	top: 430px;
+	left: 800px;
+}
